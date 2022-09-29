@@ -23,7 +23,7 @@ jobs:
         python-version: "3.10"
     - name: running both python files
       run: |
-        python one.py
-        python two.py
+        python first.Py
+        python second.Py
 
         
